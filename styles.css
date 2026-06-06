@@ -46,7 +46,8 @@ img {
 video {
   width: 100%;
   max-width: 500px;           
-  height: auto;               
+  height: 450px;               
+  object-fit: contain;          
   border-radius: 20px;
   display: block;
   margin: 10px auto 15px auto; 
